@@ -12,13 +12,13 @@
   "id": "seikotsuin-yoyaku",
   "icons": [
     {
-      "src": "https://takatakayanen123456-cmyk.github.io/seikotsuin-yoyaku/icon-512.png",
+      "src": "https://takatakayanen123456-cmyk.github.io/seikotsuin-yoyaku/launchericon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://takatakayanen123456-cmyk.github.io/seikotsuin-yoyaku/icon-192.png",
+      "src": "https://takatakayanen123456-cmyk.github.io/seikotsuin-yoyaku/launchericon-512x512.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
