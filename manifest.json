@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "整骨院・接骨院 予約＆回数券管理台帳",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "整骨院予約",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "整骨院・接骨院向けの簡単な予約管理および回数券デジタル管理ツールです。",
+  "id": "seikotsuin-yoyaku"
+}
